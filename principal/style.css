@@ -78,18 +78,18 @@ body{
 
 /* background images */
 #hdk1{
-    background-image: url(./pics/eyes.jpg);
+    background-image: url(../pics/eyes.jpg);
     
 }
 #hdk2{
-    background-image: url(./pics/face.jpg);
+    background-image: url(../pics/face.jpg);
 }
 #hdk3{
-    background-image: url(./pics/scars.jpg);
+    background-image: url(../pics/scars.jpg);
 
 }
 #hdk4{
-    background-image: url(./pics/tongue.jpg);
+    background-image: url(../pics/tongue.jpg);
 
 }
 
